@@ -18,11 +18,13 @@ Fácil de usar y completamente desde la terminal.
 1. Clona este repositorio:
 ```bash
 git clone https://github.com/Snex-21/CofrePDF.git
-
+```
 ```bash
 cd CofrePDF
+```
 ```bash
 pip install -r requirements.txt
+```
 ```bash 
 ## uso
 
