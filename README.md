@@ -34,7 +34,10 @@ python start.py
 ```
 
 ##proximamente
-una mejor enciptacion
+
+
+-una mejor enciptacion
+
 ## Licencia
 
 Este proyecto está bajo la licencia MIT.
