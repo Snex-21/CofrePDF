@@ -19,15 +19,16 @@ Fácil de usar y completamente desde la terminal.
 ```bash
 git clone https://github.com/Snex-21/CofrePDF.git
 
+```bash
 cd CofrePDF
-
+```bash
 pip install -r requirements.txt
-
+```bash 
 ## uso
 
 python start.py
 
-
+```
 ## Licencia
 
 Este proyecto está bajo la licencia MIT.
