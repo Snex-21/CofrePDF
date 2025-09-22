@@ -4,7 +4,7 @@ import json
 def presentacion():
 	os.system('clear')
 
-	titulo = 'titulo de mi proyecto (actualmente sin nombre)'
+	titulo = ' '*25 + 'CofrePDF'
 
 	print('='*60)
 	print(titulo)

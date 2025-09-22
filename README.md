@@ -19,18 +19,22 @@ Fácil de usar y completamente desde la terminal.
 ```bash
 git clone https://github.com/Snex-21/CofrePDF.git
 ```
+2. Abrir CofrePDF
 ```bash
 cd CofrePDF
 ```
+3. Instalar las dependencias
 ```bash
 pip install -r requirements.txt
-```
-```bash 
+``` 
 ## uso
-
+empezar a ejecutar el codigo
+```bash
 python start.py
-
 ```
+
+##proximamente
+una mejor enciptacion
 ## Licencia
 
 Este proyecto está bajo la licencia MIT.
